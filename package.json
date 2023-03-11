@@ -8,9 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": "18.x"
-  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^16.0.3",
@@ -18,5 +15,8 @@
     "express": "^4.16.3",
     "lodash": "^4.17.21",
     "mongoose": "^7.0.1"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
